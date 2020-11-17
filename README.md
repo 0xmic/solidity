@@ -22,3 +22,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Hello World](./src/0.6/00_hello-world)  
 * [First Application](./src/0.6/01_first-app)
 * [Primitive Data Types](./src/0.6/02_primitives)
+* [Variables](./src/0.6/03_variables)
