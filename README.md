@@ -21,3 +21,4 @@ An introduction to Solidity with simple examples.
 v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidity-by-example.github.io)  
 * [Hello World](./src/0.6/00_hello-world)  
 * [First Application](./src/0.6/01_first-app)
+* [Primitive Data Types](./src/0.6/02_primitives)
