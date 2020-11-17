@@ -24,3 +24,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Primitive Data Types](./src/0.6/02_primitives)
 * [Variables](./src/0.6/03_variables)
 * [Reading and Writing to a State Variable](./src/0.6/04_state-variables)
+* [Ether and Wei](./src/0.6/05_ether-units)
