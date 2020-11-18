@@ -27,3 +27,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Ether and Wei](./src/0.6/05_ether-units)
 * [Gas and Gas Price](./src/0.6/06_gas)
 * [If / Else](./src/0.6/07_if-else)
+* [For and While Loops](./src/0.6/08_loops)
