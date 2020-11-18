@@ -28,3 +28,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Gas and Gas Price](./src/0.6/06_gas)
 * [If / Else](./src/0.6/07_if-else)
 * [For and While Loops](./src/0.6/08_loops)
+* [Mappings](./src/0.6/09_mappings)
