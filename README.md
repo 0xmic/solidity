@@ -31,3 +31,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Mappings](./src/0.6/09_mapping)
 * [Arrays](./src/0.6/10_array)
 * [Enums](./src/0.6/11_enum)
+* [Structs](./src/0.6/12_structs)
