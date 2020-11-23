@@ -32,3 +32,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Arrays](./src/0.6/10_array)
 * [Enums](./src/0.6/11_enum)
 * [Structs](./src/0.6/12_structs)
+* [Data Locations - Storage, Memory and Calldata](./src/0.6/13_data-locations)
