@@ -35,3 +35,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Data Locations - Storage, Memory and Calldata](./src/0.6/13_data-locations)
 * [Function](./src/0.6/14_function)
 * [View and Pure Functions](./src/0.6/15_view-and-pure-functions)
+* [Error](./src/0.6/16_error)
