@@ -18,7 +18,7 @@ contract A {
 // Shadowing is disallowed in Solidity 0.6
 // This will not compile
 // contract B is A {
-// 		string public name = "Contract B"	
+// 	string public name = "Contract B"	
 // }
 
 contract C is A {
