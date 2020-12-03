@@ -48,3 +48,4 @@ v0.6.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Sending Ether - Transfer, Send and Call](./src/0.6/26_sending-ether)
 * [Fallback](./src/0.6/27_fallback)
 * [Call](./src/0.6/28_call)
+* [Delegatecall](./src/0.6/29_delegatecall)
