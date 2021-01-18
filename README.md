@@ -23,3 +23,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [First App](./src/0.7/01_first-app)
 * [Primitive Data Types](./src/0.7/02_primitives)
 * [Variables](./src/0.7/03_variables)
+* [Reading and Writing to a State Variable](./src/0.7/04_state-variables)
