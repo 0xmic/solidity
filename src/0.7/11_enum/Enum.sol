@@ -1,11 +1,5 @@
-# Enum  
-Solidity supports enumerables and they are useful to model choise and keep track of state.  
-
-Enums can be declared outside of a contract.  
-
-```
- // SPDX-License-Identifier: MIT
-pragma solidity ^0.6.10;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.7.6;
 
 contract Enum {
 	// Enum representing shipping status
@@ -46,33 +40,3 @@ contract Enum {
 		delete status;
 	}
 }
-```
-
-### Declaring and Importing Enum  
-File that the enum is declared in.  
-
-```
-// SPDX-License-Identifer: MIT
-pragma solidity ^0.6.10;
-
-enum Status {
-	Pending,
-	Shipped,
-	Accepted,
-	Rejected,
-	Canceled	
-}
-```
-
-File that imports the enum above.  
-
-```
-// SPDX-License-Identifer: MIT
-pragma solidity ^0.6.10;
-
-import "./EnumDeclaration.sol";
-
-contract Enum {
-	Status public status;
-}
-```

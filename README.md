@@ -29,3 +29,6 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [If / Else](./src/0.7/07_if-else)
 * [For and While Loop](./src/0.7/08_loops)
 * [Mapping](./src/0.7/09_mapping)
+* [Array](./src/0.7/10_array)
+* [Enum](./src/0.7/11_enum)
+* [Structs](./src/0.7/12_structs)
