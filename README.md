@@ -33,3 +33,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Enum](./src/0.7/11_enum)
 * [Structs](./src/0.7/12_structs)
 * [Data Locations - Storage, Memory and Calldata](./src/0.7/13_data-locations)
+* [Function](./src/0.7/14_function)
