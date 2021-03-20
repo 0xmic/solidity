@@ -34,3 +34,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Structs](./src/0.7/12_structs)
 * [Data Locations - Storage, Memory and Calldata](./src/0.7/13_data-locations)
 * [Function](./src/0.7/14_function)
+* [View and Pure Functions](./src/0.7/15_view-and-pure-functions)
