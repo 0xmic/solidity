@@ -36,3 +36,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Function](./src/0.7/14_function)
 * [View and Pure Functions](./src/0.7/15_view-and-pure-functions)
 * [Error](./src/0.7/16_error)
+* [Function Modifier](./src/0.7/17_function-modifier)
