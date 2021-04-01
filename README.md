@@ -38,3 +38,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Error](./src/0.7/16_error)
 * [Function Modifier](./src/0.7/17_function-modifier)
 * [Events](./src/0.7/18_events)
+* [Constructor](./src/0.7/19_constructor)
