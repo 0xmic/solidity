@@ -39,3 +39,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Function Modifier](./src/0.7/17_function-modifier)
 * [Events](./src/0.7/18_events)
 * [Constructor](./src/0.7/19_constructor)
+* [Inheritance](./src/0.7/20_inheritance)
