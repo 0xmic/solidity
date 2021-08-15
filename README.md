@@ -43,3 +43,4 @@ v0.7.6 - [source code & license](https://github.com/solidity-by-example/solidity
 * [Shadowing Inherited State Variables](./src/0.7/21_shadowing-inherited-state-variables)
 * [Calling Parent Contracts](./src/0.7/22_calling-parent-contracts)
 * [Visibility](./src/0.7/23_visibility)
+* [Interface](./src/0.7/24_interface)
