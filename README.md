@@ -20,3 +20,4 @@ An introduction to Solidity with simple examples.
 ### Examples
 v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidity-by-example.github.io)  
 * [Hello World](./src/0.8/00_hello-world)
+* [First App](./src/0.8/01_first-app)
