@@ -27,3 +27,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Immutable](./src/0.8/05_immutable)
 * [Reading and Writing to a State Variable](./src/0.8/06_state-variables)
 * [Ether and Wei](./src/0.8/07_ether-units)
+* [Gas and Gas Price](./src/0.8/08_gas)
