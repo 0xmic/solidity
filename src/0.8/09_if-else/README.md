@@ -4,7 +4,7 @@ Solidity supports conditional statements `if`, `else if` and `else`.
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.10;
 
-contract ifElse {
+contract IfElse {
 	function foo(uint x) public pure returns (uint) {
 		if (x < 10) {
 			return 0;
