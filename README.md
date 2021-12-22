@@ -24,3 +24,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Primitive Data Types](./src/0.8/02_primitives)
 * [Variables](./src/0.8/03_variables)
 * [Constants](./src/0.8/04_constants)
+* [Immutable](./src/0.8/05_immutable)
