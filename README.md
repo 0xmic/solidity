@@ -28,3 +28,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Reading and Writing to a State Variable](./src/0.8/06_state-variables)
 * [Ether and Wei](./src/0.8/07_ether-units)
 * [Gas and Gas Price](./src/0.8/08_gas)
+* [If / Else](./src/0.8/09_if-else)
