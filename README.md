@@ -36,3 +36,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Structs](./src/0.8/14_structs)
 * [Data Locations - Storage, Memory and Calldata](./src/0.8/15_data-locations)
 * [Function](./src/0.8/16_function)
+* [View and Pure Functions](./src/0.8/17_view-and-pure-functions)
