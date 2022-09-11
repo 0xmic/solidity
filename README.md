@@ -40,3 +40,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Error](./src/0.8/18_error)
 * [Function Modifier](./src/0.8/19_function-modifier)
 * [Events](./src/0.8/20_events)
+* [Constructor](./src/0.8/21_constructor)
