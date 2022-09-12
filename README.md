@@ -42,3 +42,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Events](./src/0.8/20_events)
 * [Constructor](./src/0.8/21_constructor)
 * [Inheritance](./src/0.8/22_inheritance)
+* [Shadowing Inherited State Variables](./src/0.8/23_shadowing-inherited-state-variables)
