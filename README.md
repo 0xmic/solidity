@@ -45,3 +45,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Shadowing Inherited State Variables](./src/0.8/23_shadowing-inherited-state-variables)
 * [Calling Parent Contracts](./src/0.8/24_calling-parent-contracts)
 * [Visibility](./src/0.8/25_visibility)
+* [Interface](./src/0.8/26_interface)
