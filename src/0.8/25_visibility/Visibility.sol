@@ -1,12 +1,3 @@
-# Visibility  
-Functions and state variables have to declare whether they are accessible by other contracts.  
-Functions can be declared as
-* `public` - any contract and account can call
-* `private` - only inside the contract that defines the function
-* `internal` - only inside the contract that inherits an `internal` function
-* `external` - only other contracts and accounts can call
-State variables can be declared as `public`, `private`, or `internal` but not `external`.
-```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
@@ -73,4 +64,3 @@ contract Child is Base {
 		return internalFunc();
 	}
 }
-```
