@@ -49,3 +49,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Payable](./src/0.8/27_payable)
 * [Sending Ether - Transfer, Send, Call](./src/0.8/28_sending-ether)
 * [Fallback](./src/0.8/29_fallback)
+* [Call](./src/0.8/30_call)
+* [Delegatecall](./src/0.8/31_delegatecall)
