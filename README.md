@@ -51,3 +51,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Fallback](./src/0.8/29_fallback)
 * [Call](./src/0.8/30_call)
 * [Delegatecall](./src/0.8/31_delegatecall)
+* [Function Selector](./src/0.8/32_function-selector)
