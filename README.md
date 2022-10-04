@@ -60,3 +60,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [ABI Encode](./src/0.8/38_abi-encode)
 * [ABI Decode](./src/0.8/39_abi-decode)
 * [Hashing with Keccak256](./src/0.8/40_hashing)
+* [Verifying Signature](./src/0.8/41_signature)
