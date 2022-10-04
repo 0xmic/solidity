@@ -62,3 +62,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Hashing with Keccak256](./src/0.8/40_hashing)
 * [Verifying Signature](./src/0.8/41_signature)
 * [Gas Optimizations](./src/0.8/42_gas)
+* [Bitwise Operators](./src/0.8/43_bitwise-operators)
