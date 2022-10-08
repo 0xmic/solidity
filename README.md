@@ -69,3 +69,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Multi Sig Wallet](./src/0.8/app/01_multi-sig-wallet)
 * [Merkle Tree](./src/0.8/app/02_merkle-tree)
 * [Iterable Mapping](./src/0.8/app/03_iterable-mapping)
+* [Precompute Contract Address with Create2](./src/0.8/app/04_create2)
