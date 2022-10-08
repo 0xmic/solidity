@@ -67,4 +67,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 ### Applications
 * [Ether Wallet](./src/0.8/app/00_ether-wallet)
 * [Multi Sig Wallet](./src/0.8/app/01_multi-sig-wallet)
-* [Markle Tree](./src/0.8/app/02_merkle-tree)
+* [Merkle Tree](./src/0.8/app/02_merkle-tree)
+* [Iterable Mapping](./src/0.8/app/03_iterable-mapping)
