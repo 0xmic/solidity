@@ -70,3 +70,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Merkle Tree](./src/0.8/app/02_merkle-tree)
 * [Iterable Mapping](./src/0.8/app/03_iterable-mapping)
 * [Precompute Contract Address with Create2](./src/0.8/app/04_create2)
+* [ERC20](./src/0.8/app/05_erc20)
+* [ERC721](./src/0.8/app/06_erc721)
