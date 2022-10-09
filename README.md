@@ -72,3 +72,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Precompute Contract Address with Create2](./src/0.8/app/04_create2)
 * [ERC20](./src/0.8/app/05_erc20)
 * [ERC721](./src/0.8/app/06_erc721)
+* [Minimal Proxy Contract](./src/0.8/app/07_minimal-proxy)
