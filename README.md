@@ -73,5 +73,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [ERC20](./src/0.8/app/05_erc20)
 * [ERC721](./src/0.8/app/06_erc721)
 * [Minimal Proxy Contract](./src/0.8/app/07_minimal-proxy)
-* [Upgradeable Proxy](./src/0.8/app/)
+* [Upgradeable Proxy](./src/0.8/app/08_upgradeable-proxy)
 * [Deploy Any Contract](./src/0.8/app/09_deploy-any-contract)
