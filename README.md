@@ -78,3 +78,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Write to Any Slot](./src/0.8/app/10_write-to-any-slot)
 * [Uni-Directional Payment Channel](./src/0.8/app/11_uni-directional-payment-channel)
 * [Bi-Directional Payment Channel](./src/0.8/app/12_bi-directional-payment-channel)
+* [English Auction](./src/0.8/app/13_english-auction)
+* [Dutch Auction](./src/0.8/app/14_dutch-auction)
