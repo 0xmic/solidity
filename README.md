@@ -82,3 +82,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Dutch Auction](./src/0.8/app/14_dutch-auction)
 * [Crowd Fund](./src/0.8/app/15_crowd-fund)
 * [Multi Call](./src/0.8/app/16_multi-call)
+* [Multi Delegatecall](./src/0.8/app/17_multi-delegatecall)
