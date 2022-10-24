@@ -84,3 +84,6 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Multi Call](./src/0.8/app/16_multi-call)
 * [Multi Delegatecall](./src/0.8/app/17_multi-delegatecall)
 * [Time Lock](./src/0.8/app/18_time-lock)
+
+### Hacks
+[Re-Entrancy](./src/0.8/hacks/00_re-entrancy)
