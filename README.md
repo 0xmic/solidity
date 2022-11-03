@@ -86,5 +86,7 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Time Lock](./src/0.8/app/18_time-lock)
 
 ### Hacks
-[Re-Entrancy](./src/0.8/hacks/00_re-entrancy)
-[Arithmetic Overflow and Underflow](./src/0.8/hacks/01_overflow)
+* [Re-Entrancy](./src/0.8/hacks/00_re-entrancy)
+* [Arithmetic Overflow and Underflow](./src/0.8/hacks/01_overflow)
+* [Self Destruct](./src/0.8/hacks/02_self-destruct)
+* [Accessing Private Data](./src/0.8/hacks/03_accessing-private-data)
