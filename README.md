@@ -90,3 +90,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Arithmetic Overflow and Underflow](./src/0.8/hacks/01_overflow)
 * [Self Destruct](./src/0.8/hacks/02_self-destruct)
 * [Accessing Private Data](./src/0.8/hacks/03_accessing-private-data)
+* [Delegatecall](./src/0.8/hacks/04_delegatecall)
+* [Source of Randomness](./src/0.8/hacks/05_randomness)
