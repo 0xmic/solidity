@@ -98,3 +98,8 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Honeypot](./src/0.8/hacks/09_honeypot)
 * [Front Running](./src/0.8/hacks/10_front-running)
 * [Block Timestamp Manipulation](./src/0.8/hacks/11_block-timestamp-manipulation)
+* [Signature Replay](./src/0.8/hacks/12_signature-replay)
+* [Bypass Contract size Check](./src/0.8/hacks/13_bypass-contract-size-check)
+
+### Tests
+* [Echidna](./src/0.8/tests/echidna)
