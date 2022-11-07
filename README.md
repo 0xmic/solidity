@@ -97,3 +97,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Hiding Malicious Code with External Contract](./src/0.8/hacks/08_hiding-malicious-code-with-external-contract)
 * [Honeypot](./src/0.8/hacks/09_honeypot)
 * [Front Running](./src/0.8/hacks/10_front-running)
+* [Block Timestamp Manipulation](./src/0.8/hacks/11_block-timestamp-manipulation)
