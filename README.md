@@ -94,3 +94,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 * [Source of Randomness](./src/0.8/hacks/05_randomness)
 * [Denial of Service](./src/0.8/hacks/06_denial-of-service)
 * [Phishing with tx.origin](./src/0.8/hacks/07_phishing-with-tx-origin)
+* [Hiding Malicious Code with External Contract](./src/0.8/hacks/08_hiding-malicious-code-with-external-contract)
