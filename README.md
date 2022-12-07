@@ -106,3 +106,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 
 ### DeFi
 * [Uniswap V2 Swap](./src/0.8/defi/uniswap-v2)
+* [Uniswap V2 Add Remove Liquidity](./src/0.8/defi/uniswap-v2-add-remove-liquidity)
