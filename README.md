@@ -115,4 +115,5 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 
 -   [Uniswap V2 Swap](./src/0.8/defi/uniswap-v2)
 -   [Uniswap V2 Add Remove Liquidity](./src/0.8/defi/uniswap-v2-add-remove-liquidity)
--   [Uniswap V2 Optimal One Sided Supply](./src/0.9/defi/uniswap-v2-optimal-one-sided-supply)
+-   [Uniswap V2 Optimal One Sided Supply](./src/0.8/defi/uniswap-v2-optimal-one-sided-supply)
+-   [Uniswap V2 Flash Swap](./src/0.8/defi/uniswap-v2-flash-swap)
