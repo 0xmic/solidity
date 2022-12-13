@@ -121,3 +121,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 -   [Uniswap V3 Liquidity](./src/0.8/defi/uniswap-v3-liquidity)
 -   [Uniswap V3 Flash Loan](./src/0.8/defi/uinswap-v3-flash-loan)
 -   [Uniswap V3 Flash Swap Arbitrage](./src/0.8/defi/uniswap-v3-flash-swap)
+-   [Chainlink Price Oracle](./src/0.8/defi/chainlink-price-oracle)
