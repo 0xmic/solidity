@@ -124,3 +124,4 @@ v0.8.10 - [source code & license](https://github.com/solidity-by-example/solidit
 -   [Chainlink Price Oracle](./src/0.8/defi/chainlink-price-oracle)
 -   [Staking Rewards](./src/0.8/defi/staking-rewards)
 -   [Discrete Staking Rewards](./src/0.8/defi/discrete-staking-rewards)
+-   [Vault](./src/0.8/defi/vault)
