@@ -200,7 +200,7 @@ contract TestContract {
 	}
 
 	function getData() public pure returns (bytes memory) {
-		return abi.encodeWithSignature("callMe(uint256", 123);
+		return abi.encodeWithSignature("callMe(uint256)", 123);
 	}
 }
 ```
